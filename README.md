@@ -1,37 +1,66 @@
-<!-- Hacker Terminal Section with Custom ASCII Logo -->
-<p align="center">
+<div align="center">
 <pre>
-<span style="color:#FFE66D;">     ██╗██╗██╗   ██╗ █████╗ ██╗         ██████╗  █████╗ ████████╗███████╗██╗     </span>
-<span style="color:#FFE66D;">     ██║██║╚██╗ ██╔╝██╔══██╗██║         ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║     </span>
-<span style="color:#FFE66D;">     ██║██║ ╚████╔╝ ███████║██║         ██████╔╝███████║   ██║   █████╗  ██║     </span>
-<span style="color:#FFE66D;">██   ██║██║  ╚██╔╝  ██╔══██║██║         ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║     </span>
-<span style="color:#FFE66D;">╚█████╔╝██║   ██║   ██║  ██║███████╗    ██║     ██║  ██║   ██║   ███████╗███████╗</span>
-<span style="color:#FFE66D;"> ╚════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝</span>
+<span>     ██╗██╗██╗   ██╗ █████╗ ██╗         ██████╗  █████╗ ████████╗███████╗██╗     </span>
+<span>     ██║██║╚██╗ ██╔╝██╔══██╗██║         ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║     </span>
+<span>     ██║██║ ╚████╔╝ ███████║██║         ██████╔╝███████║   ██║   █████╗  ██║     </span>
+<span>██   ██║██║  ╚██╔╝  ██╔══██║██║         ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║     </span>
+<span>╚█████╔╝██║   ██║   ██║  ██║███████╗    ██║     ██║  ██║   ██║   ███████╗███████╗</span>
+<span> ╚════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝</span>
 </pre>
+</div>
 
-<pre>
-<span style="color:#8BE9FD;">jiyal@macbook</span><span style="color:#BD93F9;"> ~ %</span> <span style="color:#50FA7B;">whoami</span>
-<span style="color:#F8F8F2;">jiyal</span>
+<img src="https://komarev.com/ghpvc/?username=jiyalpatel&color=3aa1bf&style=for-the-badge&label=HELLO+VISITOR" width=110>
 
-<span style="color:#8BE9FD;">jiyal@macbook</span><span style="color:#BD93F9;"> ~ %</span> <span style="color:#50FA7B;">man jiyal</span>
+# 👨‍💻 About Me
 
-<span style="color:#FF79C6;">NAME</span>
-    <span style="color:#F8F8F2;">jiyal - full stack web development tool</span>
+**"The Developer Who Turns Coffee into Code"**
 
-<span style="color:#FF79C6;">SYNOPSIS</span>
-    <span style="color:#BD93F9;">$ jiyal --dev --deploy --debug</span>
+Meet Jiyal Patel, a full-stack developer who builds digital experiences that actually matter. From crafting lightning-fast React frontends to architecting bulletproof backends with Node.js and Python - he doesn't just write code, he creates solutions.
 
-<span style="color:#FF79C6;">DESCRIPTION</span>
-    <span style="color:#F8F8F2;">A cross-platform full stack developer from India 🇮🇳.</span>
-    <span style="color:#FFE66D;">Django</span>, <span style="color:#3CFF66;">Node.js</span>, <span style="color:#61DAFB;">React</span>, and <span style="color:#9EFFA1;">MongoDB</span> wizard.
+Part developer, part cybersecurity ninja, part hardware hacker. When he's not breaking things to make them better, you'll find him building IoT projects with Arduino or hunting bugs in the wild.
 
-<span style="color:#8BE9FD;">jiyal@macbook</span><span style="color:#BD93F9;"> ~ %</span> <span style="color:#50FA7B;">jiyal --version</span>
-<span style="color:#F8F8F2;">v2.5.1 (FullStack Edition)</span>
+*Code. Secure. Deploy. Repeat.*
 
-<span style="color:#8BE9FD;">jiyal@macbook</span><span style="color:#BD93F9;"> ~ %</span> <span style="color:#50FA7B;">jiyal --help</span>
-<span style="color:#BD93F9;">Available Commands:</span>
-  <span style="color:#BD93F9;">--build</span>       <span style="color:#F8F8F2;">Builds your dream project</span>
-  <span style="color:#BD93F9;">--deploy</span>      <span style="color:#F8F8F2;">Deploys it to the internet</span>
-  <span style="color:#BD93F9;">--debug</span>       <span style="color:#F8F8F2;">Fixes bugs like a ninja 🥷</span>
-</pre>
-</p>
+~ *ChatGpt*
+
+## ✨ Languages and Tools :
+### 🛠️ Programming Languages
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![PHP](https://skillicons.dev/icons?i=php)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+### 🌐 Web Development
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### 🔧 Tools & Technologies
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Heroku](https://skillicons.dev/icons?i=heroku)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+## 💻 Connect with Me
+
+```bash
+$ ping jiyal.dev
+PING successful! Choose your protocol:
+
+$ ssh linkedin.com/in/jiyalpatel
+$ curl -X GET twitter.com/jiyalpatel  
+$ wget jiyalpatel.xyz
+$ echo "jiyalpatel10@gmail.com" | mail
+```
