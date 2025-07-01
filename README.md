@@ -10,6 +10,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=jiyalpatel&color=3aa1bf&style=for-the-badge&label=HELLO+VISITOR" width=110>
+<br>
 
 # 👨‍💻 About Me
 
@@ -22,6 +23,8 @@ Part developer, part cybersecurity ninja, part hardware hacker. When he's not br
 *Code. Secure. Deploy. Repeat.*
 
 ~ *ChatGpt*
+
+<br>
 
 ## ✨ Languages and Tools :
 ### 🛠️ Programming Languages
@@ -52,6 +55,8 @@ Part developer, part cybersecurity ninja, part hardware hacker. When he's not br
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Heroku](https://skillicons.dev/icons?i=heroku)
 ![Postman](https://skillicons.dev/icons?i=postman)
+
+<br> 
 
 ## 💻 Connect with Me
 
