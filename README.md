@@ -32,6 +32,7 @@ Part developer, part cybersecurity ninja, part hardware hacker. When he's not br
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Java](https://skillicons.dev/icons?i=java)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Bash](https://skillicons.dev/icons?i=bash)
 
